@@ -326,25 +326,25 @@
         figure
           img(src='@/assets/curso/temas/t1/t1_18.svg', alt='')          
 
-      .crd.crd--yellow.crd--rad.p-3(x="9%" y="33.5%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="9%" y="35%" numero="+")
         .h5.mb-2 Amigable
         p Es importante tener en cuenta que este tipo de clientes se puede extralimitar haciendo preguntas, por ejemplo, de tipo personal. Se debe atender con amabilidad, con educación, pero sin olvidar que es un cliente y no un amigo para chatear o conversar telefónicamente.
-      .crd.crd--yellow.crd--rad.p-3(x="23%" y="33.5%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="23%" y="35%" numero="+")
         .h5.mb-2 Frívolo o exigente
         p Al ser personas un poco prepotentes y exigentes, el vendedor no solo debe tener competencias sociales de amabilidad y paciencia para no caer en sus provocaciones y evitar contestar de manera incorrecta (sería como morder el anzuelo que ellos quieren que muerda), es necesario tener seguridad en las respuestas y para esto es requisito fundamental dominar el portafolio de servicios y productos.
-      .crd.crd--yellow.crd--rad.p-3(x="48%" y="33.5%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="48%" y="35%" numero="+")
         .h5.mb-2 Independiente
         p El modo de tratarlo es con cordialidad y amabilidad, pero no ofrecerles una lista larga de productos, pues son clientes que desean información precisa que solicitan, pocas veces les puede interesar servicios adicionales, por eso se debe ir ofreciendo otras cosas de manera paulatina y concisa.
-      .crd.crd--yellow.crd--rad.p-3(x="68%" y="33.5%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="68%" y="35%" numero="+")
         .h5.mb-2 Curioso
         p Este tipo de clientes es de los que preguntan mucho. Deben atenderse amablemente y transmitirles mucha información, de manera que sientan que su curiosidad está satisfecha. Al responderle alguna pregunta que se haga, no contestarle de manera cortante o concisa, es recomendable siempre que la respuesta venga acompañada de un complemento añadido, como algún detalle o beneficio del producto. 
-      .crd.crd--yellow.crd--rad.p-3(x="60%" y="70%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="60%" y="74%" numero="+")
         .h5.mb-2 Enfadado
         p Este tipo de clientes son un reto para la paciencia y amabilidad, pero siempre se debe mantener el control. Este tipo de clientes se les debe dejar que se expresen y permitirle liberarse de frustraciones, procurar mostrar empatía y haciéndole saber que se están realizando acciones para resolver sus reclamos.
-      .crd.crd--yellow.crd--rad.p-3(x="80%" y="70%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="80%" y="74%" numero="+")
         .h5.mb-2 Desconfiado
         p A los desconfiados se les debe mostrar seguridad y brindarles información que respalde el negocio, es por ello que la legalidad y el respaldo comercial deben ser factores fundamentales para todo proyecto de empresa, si la empresa es informal y no tiene referencias comerciales, es muy probable que pierda muchos clientes, pues en los medios digitales se facilitan las estafas y engaños. Cuando llega un cliente desconfiado, basta con demostrar respaldo de una empresa bien constituida y entregar toda la información que requiere el cliente. Se debe ser cuidadoso en no dudar, mostrar siempre seguridad y transmitir tranquilidad. 
-      .crd.crd--yellow.crd--rad.p-3(x="97%" y="70%" numero="+")
+      .crd.crd--yellow.crd--rad.p-3(x="97%" y="74%" numero="+")
         .h5.mb-2 Con prisa
         p Se debe ser cuidadoso, si bien a nadie le agradaría que lo hagan esperar en la línea, con este tipo de clientes sería más delicado aún, suelen pensar que ellos son la prioridad y exigen se les atienda rápidamente. Es importante no caer en sus afanes para no cometer errores, pero sí darles el foco de atención según las posibilidades y explicarles muy bien procurando su racionalidad. 
 
