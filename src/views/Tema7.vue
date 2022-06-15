@@ -30,7 +30,7 @@
 
       .crd.crd--purple(data-aos="zoom-in").p-4
         .row.justify-content-center.align-items-center
-          .col-lg-8
+          .col-lg-8.mb-5.mb-lg-0
             p Los clientes en internet toman la decisión de compra basados en la confianza, calidad del servicio a través de medios digitales #[span.hg--white (chat, teléfono, stricker, facilidad de pago, seguridad),] y facilidad de navegabilidad.
 
             p Es importante que la empresa de ventas online tenga definido un protocolo o de contacto y atención que a través de una pantalla se pueda ofrecer.

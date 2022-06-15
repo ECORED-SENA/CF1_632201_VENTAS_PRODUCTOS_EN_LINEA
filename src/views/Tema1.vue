@@ -36,6 +36,33 @@
 
     p.mb-5 Para definir la primera parte de clases de clientes, se define el enfoque del negocio que se quiere. Existen tres clases como se verá a continuación:
 
+    .row.justify-content-center.mb-5
+      .col-xl-4.col-9.mb-4.mb-xl-0
+        .crd_hover_txt
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/t1/t1_19.jpg", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 B2C (Business to Consumer) 
+            p.mb-0 De empresa a consumidor o cliente final, son aquellos negocios que ofrecen productos o servicios a personas.
+      .col-xl-4.col-9.mb-4.mb-xl-0
+        .crd_hover_txt
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/t1/t1_20.jpg", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 B2B (Business to Business)
+            p.mb-0 Se refiere a la relación comercial de empresa a empresa, lo que se traduce en un mercado corporativo o industrial; son aquellos negocios que venden sus productos a otros negocios.
+      .col-xl-4.col-9.mb-4.mb-xl-0
+        .crd_hover_txt
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/t1/t1_21.jpg", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 C2C (Customer to Customer)
+            p.mb-0 Se establece de consumidor a consumidor, un ejemplo de esto se da en mercados de garaje. Su masificación surge a través de plataformas populares y plataformas marketplace donde cualquiera vende y compra, incluso podrían desarrollarse modelos B2B y B2C.
+
+
     p.mb-5 Luego de caracterizar los modelos es necesario conocerlos un poco más, en la siguiente tabla se presentan las principales características de los dos modelos base:
 
     .titulo-sexto.color-acento-contenido
@@ -47,8 +74,8 @@
         thead
           tr
             th(style="width:20%;")
-            th(style="width:40%;").text-white B2C
-            th(style="width:40%%;").text-white B2B
+            th(style="width:40%; font-size:1.125em;").text-white B2C
+            th(style="width:40%%; font-size:1.125em;").text-white B2B
         tbody
           tr.cell--gray
             td.ps-4 #[strong Mercado]
@@ -103,7 +130,7 @@
         .crd.crd--yellow.text-center.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_03.svg", alt="alt").img195.m-auto
-          h5.mb-3 Cliente final (consumidores)
+          h5.mb-3 Clientes empresariales o corporativos
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_2.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
@@ -112,7 +139,7 @@
         .crd.crd--yellow.text-center.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_04.svg", alt="alt").img195.m-auto
-          h5.mb-3 Cliente final (consumidores)
+          h5.mb-3 Clientes con compra
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_3.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
@@ -121,7 +148,7 @@
         .crd.crd--yellow.text-center.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_05.svg", alt="alt").img195.m-auto
-          h5.mb-3 Cliente final (consumidores)
+          h5.mb-3 Clientes potenciales
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo_4.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download

@@ -21,8 +21,8 @@
     p.mb-4 Algunas funcionalidades de las redes sociales en las empresas son las siguientes:
 
     .crd.crd--celeste.p-4(data-aos="zoom-in").mb-4
-      .row.justify-content-enter.align-items-center
-        .col-2
+      .row.justify-content-center.align-items-center
+        .col-2.col-8.mb-4.mb-lg-0
           figure
             img(src="@/assets/curso/temas/t4/t4_01.svg", alt="alt")
         .col
@@ -55,7 +55,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .bloque-texto-a.clr--01B.p-4.p-md-5(data-aos="zoom-in").mb-5 
+        .bloque-texto-a.clr--01C.p-4.p-md-5(data-aos="zoom-in").mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-3.mb-4.mb-lg-0
               figure
@@ -89,7 +89,7 @@
     p.mb-5 Los medios o canales son diversos, por lo que es importante tener algunos criterios para seleccionar la plataforma para la aplicación de la estrategia de ventas o uso corporativo que se desea.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in").mb-5      
-      .col-lg-4.col-10.z_top
+      .col-lg-4.col-10.z_top.mb-5.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/t4/t4_04.png", alt="alt")
 
@@ -99,49 +99,59 @@
 
           p.mb-0 En la siguiente infografía se pueden observar los beneficios de cada red para la empresa que usted representa, es casi imposible tener actividad en todas las redes, puesto que su control y manejo se hace complicado, debido a que la recomendación es que cada uno de los segmentos por red son diferentes y la forma de presentar el contenido también: 
 
+    .row.justify-content-center(data-aos="zoom-in")
+      .col-auto
+        .crd.crd--deepPurple.p-2
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/t4/t4_21.svg", alt="alt").img50
+            .col.me-5
+              h4.text-white.mb-0 Los negocios en redes sociales
+
 
     SlyderF.mb-5(columnas="col-lg-4")(data-aos="zoom-in")
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_05.png' alt='').img90.m-auto.mb-4 
         h5 Instagram  
         p.mb-0 Branding, exposición de productos y experiencias visuales.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_06.png' alt='').img90.m-auto.mb-4 
         h5 Youtube  
         p.mb-0 Branding, exposición visual y posicionamiento SEO, gestión de contenidos y streaming de alto alcance.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_07.png' alt='').img90.m-auto.mb-4 
         h5 Facebook  
         p.mb-0 Promoción y construcción de marca, espacios de interacción en directo.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_08.png' alt='').img90.m-auto.mb-4 
         h5 Twitter  
         p.mb-0 Atención al cliente, medio de comunicación, editorial y feedback.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_09.png' alt='').img90.m-auto.mb-4 
         h5 WhatsApp Business 
         p.mb-0 Comunicación directa inmediata y personalizada o automatizada.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_10.png' alt='').img90.m-auto.mb-4 
         h5 TikTok 
         p.mb-0 Interacción directa y marca personal o empresarial.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_11.png' alt='').img90.m-auto.mb-4 
         h5 Pinterest 
         p.mb-0 Imagen, marca, exposición y procesos, seguimiento de clientes, es una red referente.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_12.png' alt='').img90.m-auto.mb-4 
         h5 Telegram 
         p.mb-0 Comunicación directa en la nube, confianza empresarial.
 
-      .crd.crd--avatarV.p-4         
+      .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_13.png' alt='').img90.m-auto.mb-4 
         h5 LinkedIn 
         p.mb-0 Redes profesionales de trabajo, comunicación directa y corporativa, recurso humano.   

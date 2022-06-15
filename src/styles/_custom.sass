@@ -3,6 +3,8 @@
   width: 30px
 .img40
   width: 40px
+.img50
+  width: 50px
 .img65
   width: 65px
 .img80
@@ -72,12 +74,12 @@
   font-size: 7px
 
 .blt_02
-  top: 9px  
+  top: 7px  
   color: #EEAC3A
   font-size: 7px
 
 .blt_03
-  top: 9px  
+  top: 7px  
   color: #43A99B
   font-size: 7px
 
@@ -195,10 +197,39 @@
     background-color: #DEF2F4
     &::before
       background-color: #43A99B
+
+///////// Card hover
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden  
+  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 2rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 4.5rem ))
+    background-color: rgba(255, 247, 230, 1) 
   
 //// crds
+
 .fullHeight
   height: 100%
+
+.content
+  position: relative
+  top: 50%
+  transform: translateY(-50%)
+
+.horizontal-scroll
+  align-items: stretch !important
 
 .triangles
   position: absolute
@@ -245,6 +276,9 @@
 
   &.crd--purple
     background-color: #ECE5F7
+
+  &.crd--deepPurple
+    background-color: #8C5BE1
 
   &.crd--mint
     background-color: #DEF2F4
@@ -470,21 +504,26 @@
 
 ///// SLyder A tipo B Custom
 .slyder-a__tipo-b .slyder-a__btn--atrs
-  background-color: #7F4FC7
+  background-color: #EEAC3A
 
 .slyder-a__tipo-b .slyder-a__btn--sigt
-  background-color: #7F4FC7
+  background-color: #EEAC3A
 
-.slyder-a__btn--sigt, .slyder-a__btn--atrs
-  background-image: url("../assets/componentes/arrow_white.svg") !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
   border: none
 
 .slyder-a__bullets__item--active
-  background-color: #EEAC3A !important
+  background-color: #8C5BE1 !important
   border: none
 
 .slyder-a__bullets__item
-  background-color: #fad28e  
+  background-color: #AFAFAF  
+
+@media (max-width: 990px)    
+  .slyder-a__bullets__item
+    width: 8px
+    height: 8px
+    margin: 0 3px
 
 ////// Slyder B
 
@@ -493,12 +532,23 @@
   &:hover
     background-color: #EEAC3A
 
+
 ///// Bloque-texto-a
 
 .bloque-texto-a.clr--01
   background-color: #F6F6F6
   &::before
     background-color: #A3A3F8
+
+.bloque-texto-a.clr--01B
+  background-color: #FDF3E1
+  &::before
+    background-color: #A3A3F8
+
+.bloque-texto-a.clr--01C
+  background-color: #FDF3E1
+  &::before
+    background-color: #8C5BE1
 
 .bloque-texto-a.clr--01B
   background-color: #FDF3E1
@@ -611,6 +661,16 @@
 ///// infografia
 .img-infografica__card, .img-infografica-b__card
   width: 450px !important
+
+.tarjeta.tarjeta--azul
+  background-color: #ECF3FB
+
+
+///// PASOS
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #EEAC3A
+  border: none
 
 
 

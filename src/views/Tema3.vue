@@ -118,7 +118,7 @@
                   figure
                     img(src='@/assets/curso/temas/t3/t3_09.svg')
 
-          p Para finalizar este concepto básico de marketing, es importante señalar que, por lo general, hay una ruta que el cliente recorre y que el marketing es el responsable de guiar, esta es la ruta del comprador.
+          p Para finalizar este concepto básico de #[span.hg--purple01 #[i marketing]], es importante señalar que, por lo general, hay una ruta que el cliente recorre y que el marketing es el responsable de guiar, esta es la ruta del comprador.
 
     .cajon.cjn--purpura.p-4(data-aos="zoom-in").mb-5
       p.mb-0 El alcance se muestra como una pirámide inversa, en el sentido que típicamente se inicia con campañas abiertas y masivas, que si bien segmentan un público por características específicas, se trata simplemente de jugar con las posibilidades de optimizar las inversiones procurando mejorar las posibilidades.
@@ -180,7 +180,7 @@
 
     .bg_img_04(data-aos="zoom-in").mb-5
       .row.justify-content-center.align-items-center.py-5
-        .col-lg-4.col-8
+        .col-lg-4.col-8.mb-5.mb-lg-0
           figure
             img(src="@/assets/curso/temas/t3/t3_12.png", alt="alt")
         .col-lg-8
@@ -206,9 +206,9 @@
               figure
                 img(src="@/assets/curso/recursos/square_10.svg", alt="alt").img30
             .col-lg
-              p - Cuántos estarían dispuestos a pagar un poco más del precio sugerido.
-              p - Cuántos estarían dispuestos a cambiar al suministrador actual del producto.
-              p - Conocer todas las variables y combinaciones que consideren al respecto.
+              p.mb-1 - Cuántos estarían dispuestos a pagar un poco más del precio sugerido.
+              p.mb-1 - Cuántos estarían dispuestos a cambiar al suministrador actual del producto.
+              p.mb-1 - Conocer todas las variables y combinaciones que consideren al respecto.
 
     .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-lg-10
@@ -232,36 +232,45 @@
     p Para esta segmentación se emplean las siguientes variables (esto no significa que sean las únicas, pero sí las más comunes y principales):
 
     SlyderF.mb-4(columnas="col-lg-4")(data-aos="fade-in")
-      .crd.crd--purple.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_13.svg' alt='').img90.m-auto.mb-4 
-        h5.text-center sexo  
-      .crd.crd--yellow.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_14.svg' alt='').img90.m-auto.mb-4 
-        h5.text-center Rango de edad  
-      .crd.crd--mint.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_15.svg' alt='').img90.m-auto.mb-4 
-        h5.mb-0.text-center Situación sentimental
-        p.text-center (Casados, pareja, solteros) 
-      .crd.crd--purple.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_16.svg' alt='').img90.m-auto.mb-4 
-        h5.text-center Nivel económico  
-      .crd.crd--yellow.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_17.svg' alt='').img90.m-auto.mb-4 
-        h5.text-center Nivel académico 
-      .crd.crd--mint.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_18.svg' alt='').img90.m-auto.mb-4 
-        h5.mb-0.text-center Hábitat
-        p.text-center (Rural, urbano) 
-      .crd.crd--purple.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_19.svg' alt='').img90.m-auto.mb-4 
-        h5.text-center Ocupación
-      .crd.crd--yellow.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_20.svg' alt='').img90.m-auto.mb-4 
-        h5.mb-0.text-center Aficiones
-        p.text-center (deportivas, artísticas, académicas) 
-      .crd.crd--mint.crd--rad.p-4         
-        img(src='@/assets/curso/temas/t3/t3_21.svg' alt='').img90.m-auto.mb-4 
-        h5.text-center Hábitos de compra
+      .crd.crd--purple.crd--rad.fullHeight.p-4         
+        .content                 
+          img(src='@/assets/curso/temas/t3/t3_13.svg' alt='').img90.m-auto.mb-4 
+          h5.text-center sexo  
+      .crd.crd--yellow.crd--rad.fullHeight.p-4   
+        .content       
+          img(src='@/assets/curso/temas/t3/t3_14.svg' alt='').img90.m-auto.mb-4 
+          h5.text-center Rango de edad  
+      .crd.crd--mint.crd--rad.fullHeight.p-4  
+        .content        
+          img(src='@/assets/curso/temas/t3/t3_15.svg' alt='').img90.m-auto.mb-4 
+          h5.mb-0.text-center Situación sentimental
+          p.text-center (Casados, pareja, solteros) 
+      .crd.crd--purple.crd--rad.fullHeight.p-4        
+        .content  
+          img(src='@/assets/curso/temas/t3/t3_16.svg' alt='').img90.m-auto.mb-4 
+          h5.text-center Nivel económico  
+      .crd.crd--yellow.crd--rad.fullHeight.p-4  
+        .content        
+          img(src='@/assets/curso/temas/t3/t3_17.svg' alt='').img90.m-auto.mb-4 
+          h5.text-center Nivel académico 
+      .crd.crd--mint.crd--rad.fullHeight.p-4  
+        .content        
+          img(src='@/assets/curso/temas/t3/t3_18.svg' alt='').img90.m-auto.mb-4 
+          h5.mb-0.text-center Hábitat
+          p.text-center (Rural, urbano) 
+      .crd.crd--purple.crd--rad.fullHeight.p-4  
+        .content        
+          img(src='@/assets/curso/temas/t3/t3_19.svg' alt='').img90.m-auto.mb-4 
+          h5.text-center Ocupación
+      .crd.crd--yellow.crd--rad.fullHeight.p-4    
+        .content      
+          img(src='@/assets/curso/temas/t3/t3_20.svg' alt='').img90.m-auto.mb-4 
+          h5.mb-0.text-center Aficiones
+          p.text-center (deportivas, artísticas, académicas) 
+      .crd.crd--mint.crd--rad.fullHeight.p-4         
+        .content 
+          img(src='@/assets/curso/temas/t3/t3_21.svg' alt='').img90.m-auto.mb-4 
+          h5.text-center Hábitos de compra
 
     p.mb-4 A medida que pasa el tiempo, las herramientas tecnológicas tendrán la capacidad de aumentar la especificidad de la segmentación, tales como hábitos de viaje, marcas que usa, productos que más compra, ideologías políticas, religiosas y sociales.
 

@@ -53,15 +53,15 @@
       table
         thead
           tr.text-white
-            th FASES
-            th Motivaci&oacute;n
-            th B&uacute;squeda
-            th Precio
-            th Decisi&oacute;n
-            th Genera compra
-            th Entrega
-            th Uso
-            th Recompra
+            th(style="font-size:1.125em") FASES
+            th(style="font-size:1.125em") Motivaci&oacute;n
+            th(style="font-size:1.125em") B&uacute;squeda
+            th(style="font-size:1.125em") Precio
+            th(style="font-size:1.125em") Decisi&oacute;n
+            th(style="font-size:1.125em") Genera compra
+            th(style="font-size:1.125em") Entrega
+            th(style="font-size:1.125em") Uso
+            th(style="font-size:1.125em") Recompra
         tbody
           tr.cell--gray
             td #[strong Lo que hace el cliente]
@@ -125,27 +125,27 @@
 
     .bg_img_03(data-aos="fade-in")
       SlyderF.mb-5(columnas="col-lg-6")
-        .crd.crd--paleYellow.p-4         
+        .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_04.png' alt='').img195.m-auto.mb-4   
           p.mb-0 #[strong Reunir información del cliente:] desarrollar una investigación del cliente para conocer sus formas de compra, motivaciones e identificar los puntos de contacto, ayudan a reconocer los puntos débiles.
 
-        .crd.crd--paleYellow.p-4         
+        .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_05.png' alt='').img195.m-auto.mb-4   
           p.mb-0 #[strong Definir los objetivos del mapa: ] es importante que aplique la técnica no solo para tener la información, más importante que esto, la información y el conocimiento es para tomar decisiones. 
 
-        .crd.crd--paleYellow.p-4         
+        .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_06.png' alt='').img195.m-auto.mb-4   
           p.mb-0 #[strong Identificar puntos débiles: ] identificar los momentos donde las experiencias no son las deseadas y trabajar en ello. Hay momentos que es bueno tratar de llevar el cliente por otros caminos o caminos alternativos.  
 
-        .crd.crd--paleYellow.p-4         
+        .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_07.png' alt='').img195.m-auto.mb-4   
           p.mb-0 #[strong Reunir información del cliente:] desarrollar una investigación del cliente para conocer sus formas de compra, motivaciones e identificar los puntos de contacto, ayudan a reconocer los puntos débiles.  
 
-        .crd.crd--paleYellow.p-4         
+        .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_08.png' alt='').img195.m-auto.mb-4   
           p.mb-0 #[strong Compartir con el equipo de trabajo:] ocultar las debilidades para mostrarse fuerte es uno de los mayores errores corporativos. El mapa se debe compartir, validarlo con el equipo y emplear acciones de mejoramiento.
 
-        .crd.crd--paleYellow.p-4         
+        .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_09.png' alt='').img195.m-auto.mb-4   
           p.mb-0 #[strong Identificar fases del recorrido:] identificar con plenitud el recorrido que hace el cliente para ejecutar la compra en la tienda virtual.
 

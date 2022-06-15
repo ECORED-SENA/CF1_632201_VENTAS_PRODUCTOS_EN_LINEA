@@ -129,7 +129,7 @@
     TabsA(data-aos="fade-in").mb-5    
       .crd.crd--tabs.p-4(titulo="Coherencia de términos")        
         .row.justify-content-center.align-items-center        
-          .col-lg
+          .col-lg.mb-5.mb-lg-0
             p.mb-0 Algunos empleados y personas utilizan diversos términos para referirse a una misma cosa, es importante que exista una uniformidad o estandarización de estos términos; un ejemplo claro, es el SENA, el lenguaje corporativo emplea términos que lo diferencian de las instituciones de educación convencionales, entonces cuando se emplean términos como formación, aprendiz, instructor, etc., de manera instantánea, la mente asocia estos términos al SENA, pues son los utilizados de manera cultural y corporativa por la entidad.
           .col-auto
             figure(data-aos="zoom-in")
@@ -137,29 +137,29 @@
 
       .crd.crd--tabs.p-4(titulo="Claridad")        
         .row.justify-content-center.align-items-center        
-          .col-lg
+          .col-lg.mb-5.mb-lg-0
             p.mb-0 El uso de un lenguaje claro y sencillo que sea habitual al lector genera interés y genera confianza en la marca. Un sitio web con términos técnicos, tiene como resultado una elevada tasa de abandono.
           .col-auto
             figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/t6/t6_09.svg", alt="alt").img210
+              img(src="@/assets/curso/temas/t6/t6_10.svg", alt="alt").img210
 
-      .crd.crd--tabs.p-4(titulo="Claridad")        
+      .crd.crd--tabs.p-4(titulo="Personalidad")        
         .row.justify-content-center.align-items-center        
-          .col-lg
+          .col-lg.mb-5.mb-lg-0
             p.mb-0 Con el público bien definido, hay que procurar la conexión (existe una tendencia natural de establecer relaciones con quien se tienen afinidades), es importante comunicarse de manera coherente, pero sin sobrepasar los límites y para ello se deben utilizar términos propios para que los clientes sepan que realmente le importan y que la marca se diferencia de la competencia.
           .col-auto
             figure(data-aos="zoom-in")
-              img(src="@/assets/curso/temas/t6/t6_10.svg", alt="alt").img210
+              img(src="@/assets/curso/temas/t6/t6_09.svg", alt="alt").img210
 
     separador
 
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 6.4 Guías para gestionar la imagen corporativa
 
-    p(data-aos="fade-in").mb-5 Las áreas o personas encargadas de las comunicaciones, deberán construir dos herramientas que serán las guías para el correcto uso de la imagen y comunicación corporativa. Estos recursos deben estar siempre a la mano, en especial de los colaboradores de las organizaciones, no pueden ser documentos escondidos o con acceso restringido para los empleados, quienes hacen parte fundamental de la comunicación comercial:
+    p(data-aos="fade-in").mb-4 Las áreas o personas encargadas de las comunicaciones, deberán construir dos herramientas que serán las guías para el correcto uso de la imagen y comunicación corporativa. Estos recursos deben estar siempre a la mano, en especial de los colaboradores de las organizaciones, no pueden ser documentos escondidos o con acceso restringido para los empleados, quienes hacen parte fundamental de la comunicación comercial:
 
     .row.justify-content-center(data-aos="fade-in").mb-5 
-      .col-lg-3.col-8
+      .col-lg-3.col-8.mb-5.mb-lg-0
         figure
           img(src="@/assets/curso/temas/t6/t6_11.png", alt="alt")
       .col-lg-9(data-aos="fade-in")
