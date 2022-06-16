@@ -37,7 +37,7 @@
     p.mb-5 Para definir la primera parte de clases de clientes, se define el enfoque del negocio que se quiere. Existen tres clases como se verá a continuación:
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-9.mb-4.mb-xl-0
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -45,7 +45,7 @@
           .crd_hover_txt--body
             h4.mb-3 B2C (Business to Consumer) 
             p.mb-0 De empresa a consumidor o cliente final, son aquellos negocios que ofrecen productos o servicios a personas.
-      .col-xl-4.col-9.mb-4.mb-xl-0
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -53,7 +53,7 @@
           .crd_hover_txt--body
             h4.mb-3 B2B (Business to Business)
             p.mb-0 Se refiere a la relación comercial de empresa a empresa, lo que se traduce en un mercado corporativo o industrial; son aquellos negocios que venden sus productos a otros negocios.
-      .col-xl-4.col-9.mb-4.mb-xl-0
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -118,7 +118,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
-        .crd.crd--yellow.text-center.p-4        
+        .crd.crd--yellow.text-center.fullHeight.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_02.svg", alt="alt").img195.m-auto
           h5.mb-3 Cliente final (consumidores)
@@ -127,7 +127,7 @@
             i.fas.fa-file-download
 
       .col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
-        .crd.crd--yellow.text-center.p-4        
+        .crd.crd--yellow.text-center.fullHeight.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_03.svg", alt="alt").img195.m-auto
           h5.mb-3 Clientes empresariales o corporativos
@@ -136,7 +136,7 @@
             i.fas.fa-file-download
 
       .col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
-        .crd.crd--yellow.text-center.p-4        
+        .crd.crd--yellow.text-center.fullHeight.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_04.svg", alt="alt").img195.m-auto
           h5.mb-3 Clientes con compra
@@ -145,7 +145,7 @@
             i.fas.fa-file-download
 
       .col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
-        .crd.crd--yellow.text-center.p-4        
+        .crd.crd--yellow.text-center.fullHeight.p-4        
           figure.mb-3
             img(src="@/assets/curso/temas/t1/t1_05.svg", alt="alt").img195.m-auto
           h5.mb-3 Clientes potenciales

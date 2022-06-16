@@ -22,10 +22,10 @@
 
     .crd.crd--celeste.p-4(data-aos="zoom-in").mb-4
       .row.justify-content-center.align-items-center
-        .col-2.col-8.mb-4.mb-lg-0
+        .col-lg-2.col-md-3.col-8.mb-4.mb-lg-0
           figure
             img(src="@/assets/curso/temas/t4/t4_01.svg", alt="alt")
-        .col
+        .col-12.col-md
           ul.fa-ul.mb-0
             li
               i.fa-li.fas.fa-circle.blt_03
