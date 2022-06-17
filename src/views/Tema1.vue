@@ -20,16 +20,16 @@
 
     p Cada cliente es especial como lo dice #[span.txt--purple Hubspot (2021):] #[span.hg--purple02 “ningún usuario quiere ser tratado como un número o recibir una atención general con un discurso casi robotizado: lo que desea es un trato considerado, ser escuchado y recibir una solución personalizada”.] 
 
-    .row.justify-content-center.align-items-center.mb-4      
-      .col-lg-8(data-aos="fade-in").mb-5.mb-lg-0
-        .gray--left          
+    .gray--left.mb-4
+      .row.justify-content-center.align-items-center.py-4   
+        .col-lg-8(data-aos="fade-in").mb-5.mb-lg-0                    
           p Es por eso que sea cual sea el tipo de cliente, se trata de un cliente especial, aunque existe mucha información sobre las clases o tipos de clientes y la mayoría los catalogan según la personalidad, el cliente no se limita solo a personas, aunque es el más popular y masivo, existen clientes corporativos, que si bien son controlados por humanos, se hacen a través de protocolos establecidos como normatividades en caso de empresas del Estado o por comités de compras en empresas privadas. 
 
           p.mb-0 Actualmente, con el avance tecnológico y los modelos productivos de la cuarta Revolución Industrial, estas decisiones de compras ejecutadas por humanos, en muchos casos, son asistidas por los sistemas de información y sistemas inteligentes. Cada vez más, las empresas y personas asignan los procesos de compras a sistemas digitales autónomos que tomen decisiones bajo parámetros establecidos, datos del negocio y realicen dicha acción de manera automática.
 
-      .col-lg-4.col-10.z_top
-        figure(data-aos="zoom-in")
-          img(src="@/assets/curso/temas/t1/t1_01.png", alt="alt")
+        .col-lg-4.col-10.z_top
+          figure(data-aos="zoom-in")
+            img(src="@/assets/curso/temas/t1/t1_01.png", alt="alt")
 
     .cajon.cjn--mint(data-aos="zoom-in").p-4.mb-4
       p.mb-0 Por el momento, el enfoque es ampliar la información sobre clientes corporativos y personales, pero no está de más tener en cuenta que en un futuro próximo las ventas se realizarán de plataformas a plataformas, y más cuando el enfoque es el uso de tecnologías digitales para las ventas.
