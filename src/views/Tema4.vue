@@ -38,13 +38,13 @@
               | Gestión humana volviéndose en una herramienta de reclutamiento de personal.
             li
               i.fa-li.fas.fa-circle.blt_03
-              | Gestión comercial y marketing facilitando estudios de mercado, identificación del segmento, necesidades de consumo entre otras.     
+              | Gestión comercial y #[i marketing] facilitando estudios de mercado, identificación del segmento, necesidades de consumo entre otras.     
 
     p.text-center.mb-4 El siguiente video se podrá conocer más sobre el tipo de redes sociales:     
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mATxSe_h5r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
     p(data-aos="fade-in") El éxito de las empresas es, sin duda, la captación de clientes y muchas de sus iniciativas y presupuesto se concentran en esta misión; sin embargo, el surgimiento de muchas empresas y competencia aumentando las ofertas en medios digitales ha hecho que los clientes sean cada vez más escasos y exigentes. Esto hace que la captación de nuevos clientes sea cada vez más costosa, por ello a las medianas y pequeñas empresas (pymes), les podría resultar más eficiente enfocarse hacia la retención y fidelización de los clientes más rentables y aplicar estrategias a este objetivo. Esto no quiere decir que se debe dejar a un lado la atracción de nuevos compradores.
 
@@ -73,7 +73,7 @@
       .col-lg-10(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
-          span Cómo empezar una estrategia social media.
+          span Cómo empezar una estrategia #[i social media].
 
         figure
           img(src="@/assets/curso/temas/t4/t4_03.svg", alt="alt")
@@ -114,12 +114,12 @@
       .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_05.png' alt='').img90.m-auto.mb-4 
         h5 Instagram  
-        p.mb-0 Branding, exposición de productos y experiencias visuales.
+        p.mb-0 #[i Branding], exposición de productos y experiencias visuales.
 
       .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_06.png' alt='').img90.m-auto.mb-4 
         h5 Youtube  
-        p.mb-0 Branding, exposición visual y posicionamiento SEO, gestión de contenidos y streaming de alto alcance.
+        p.mb-0 #[i Branding], exposición visual y posicionamiento SEO, gestión de contenidos y streaming de alto alcance.
 
       .crd.crd--avatarV.fullHeight.p-4         
         img(src='@/assets/curso/temas/t4/t4_07.png' alt='').img90.m-auto.mb-4 
@@ -168,7 +168,7 @@ export default {
       {
         titulo: 'Publicidad accesible',
         texto:
-          'No hay necesidad de un gran presupuesto o conocimientos especializados para publicar anuncios o campañas, si bien es fácil publicar, lo importante es que esta publicidad esté asociada a un branding y estrategia de marketing.',
+          'No hay necesidad de un gran presupuesto o conocimientos especializados para publicar anuncios o campañas, si bien es fácil publicar, lo importante es que esta publicidad esté asociada a un <i>branding</i> y estrategia de <i>marketing</i>.',
         imagen: require('@/assets/curso/temas/t4/t4_14.jpg'),
       },
       {
@@ -198,7 +198,7 @@ export default {
       {
         titulo: 'Tráfico',
         texto:
-          'Una estrategia social bien diseñada en medios digitales, atrae más tráfico al sitio web o tienda online.',
+          'Una estrategia social bien diseñada en medios digitales, atrae más tráfico al sitio <i>web</i> o tienda <i>online</i>.',
         imagen: require('@/assets/curso/temas/t4/t4_19.jpg'),
       },
       {

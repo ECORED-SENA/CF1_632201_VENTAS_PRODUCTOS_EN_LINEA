@@ -46,8 +46,8 @@
         p(data-aos="fade-in") Esta técnica, identifica en cada paso si el cliente experimenta una satisfacción o un descontento. Según la naturaleza del negocio se presentan estos contactos y los momentos de verdad pueden variar, en el caso de negocios físicos, un momento de verdad se podría dar mientras un cliente espera y un factor malestar o no es que haya suficientes sillas y sea un espacio agradable. En caso de ventas en línea existen otros elementos que los clientes experimentan. A continuación, se presenta un ejemplo de un mapa de experiencia del cliente.
 
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 1.
-      span Características B2C & B2B 
+      h5 Tabla 2.
+      span Ejemplo Mapa de experiencia del cliente.
 
     .tabla-a.custom_01(data-aos="zoom-in").mb-5
       table
@@ -135,11 +135,7 @@
 
         .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_06.png' alt='').img195.m-auto.mb-4   
-          p.mb-0 #[strong Identificar puntos débiles: ] identificar los momentos donde las experiencias no son las deseadas y trabajar en ello. Hay momentos que es bueno tratar de llevar el cliente por otros caminos o caminos alternativos.  
-
-        .crd.crd--paleYellow.fullHeight.p-4         
-          img(src='@/assets/curso/temas/t8/t8_07.png' alt='').img195.m-auto.mb-4   
-          p.mb-0 #[strong Reunir información del cliente:] desarrollar una investigación del cliente para conocer sus formas de compra, motivaciones e identificar los puntos de contacto, ayudan a reconocer los puntos débiles.  
+          p.mb-0 #[strong Identificar puntos débiles: ] identificar los momentos donde las experiencias no son las deseadas y trabajar en ello. Hay momentos que es bueno tratar de llevar el cliente por otros caminos o caminos alternativos.         
 
         .crd.crd--paleYellow.fullHeight.p-4         
           img(src='@/assets/curso/temas/t8/t8_08.png' alt='').img195.m-auto.mb-4   

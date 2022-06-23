@@ -48,12 +48,12 @@
                 figure
                   img(src="@/assets/curso/temas/t5/t5_02.svg", alt="alt")
               .col-lg-8
-                p #[span.squareNum 1]#[strong Evitar generar spam:] los mensajes de manera indiscriminada suele ser incómodo para las personas que lo reciben. Adicionalmente, estos comportamientos pueden ser motivo de sanción por parte de la red social restringiendo la cuenta o incluso suspendiéndola.
+                p #[span.squareNum 1]#[strong Evitar generar #[i spam]:] los mensajes de manera indiscriminada suele ser incómodo para las personas que lo reciben. Adicionalmente, estos comportamientos pueden ser motivo de sanción por parte de la red social restringiendo la cuenta o incluso suspendiéndola.
 
           .col-12.mb-4
             .row.justify-content-center
               .col-lg-8.order-2.order-lg-1
-                p #[span.squareNum 2] #[strong Evitar generar spam:] los mensajes de manera indiscriminada suele ser incómodo para las personas que lo reciben. Adicionalmente, estos comportamientos pueden ser motivo de sanción por parte de la red social restringiendo la cuenta o incluso suspendiéndola.
+                p #[span.squareNum 2] #[strong No escribir mensajes en mayúscula sostenida:] se toma como una manera de comunicarse gritando, si se usan las mayúsculas, emplearlas para títulos o frases cortas que impliquen sobresaltar de otro texto.
               .col-lg-2.col-6.order-1.order-lg-2.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/temas/t5/t5_03.svg", alt="alt")
@@ -64,7 +64,7 @@
                 figure
                   img(src="@/assets/curso/temas/t5/t5_04.svg", alt="alt")
               .col-lg-8
-                p #[span.squareNum 3] #[strong Evitar generar spam:] los mensajes de manera indiscriminada suele ser incómodo para las personas que lo reciben. Adicionalmente, estos comportamientos pueden ser motivo de sanción por parte de la red social restringiendo la cuenta o incluso suspendiéndola.
+                p #[span.squareNum 3] #[strong No etiquetar indiscriminadamente:]  etiquetar y mencionar personas o marcas que no están en las fotos o en fotos que le serían de su agrado sin su permiso (Peláez y Lara, 2016).
 
         .row.pt-5(titulo="2")
           .col-12.mb-4
@@ -128,7 +128,7 @@
           .col-12.mb-4
             .row.justify-content-center
               .col-lg-8.order-2.order-lg-1
-                p #[span.squareNum 11] #[strong Compartir recursos que funcionen:] cuando se comparte un link de una web, video, etc., se debe asegurar que realmente funciona.
+                p #[span.squareNum 11] #[strong Compartir recursos que funcionen:] cuando se comparte un #[i link] de una #[i web], video, etc., se debe asegurar que realmente funciona.
               .col-lg-2.col-6.order-1.order-lg-2.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/temas/t5/t5_12.svg", alt="alt")
@@ -176,6 +176,8 @@
         .cstm_title
           h3 Netiqueta en correo electrónico
 
+    p.mb-4 Con relación al manejo de la comunicación en correos electrónicos, el tema es más delicado porque se requiere para dar inicio tener el correo de la persona. Algunas recomendaciones son:
+
     .slyderB_bg_01.px-5.py-3.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
@@ -188,8 +190,8 @@
               li
                 i.fa-li.fas.fa-circle.blt_03
                 | En caso personal o corporativo sí es recomendable hacerlo, es una norma de netiqueta y educación, confirmar el recibido, de esta manera el emisor inicial sabrá que el mensaje fue recibido correctamente.         
-            p #[span.squareNum 2] #[strong Correos masivos en CCO:]  si no se tienen plataformas de e-mail marketing, cuando envíe correos masivos, copie las direcciones de los destinatarios en la caja CCO (con copia oculta).               
-            p #[span.squareNum 3] #[strong Evite el envío de correos masivos:]  si se acostumbra a enviar correos desde una cuenta normal y gratuita es posible que pasará a una lista negra de spam esto provoca que los mensajes de la dirección de correo se bloqueen o lleguen a spam del destinatario. Use herramientas certificadas y de buena reputación para el envío de campañas e-mail marketing.               
+            p #[span.squareNum 2] #[strong Correos masivos en CCO:]  si no se tienen plataformas de #[i e-mail marketing], cuando envíe correos masivos, copie las direcciones de los destinatarios en la caja CCO (con copia oculta).               
+            p #[span.squareNum 3] #[strong Evite el envío de correos masivos:]  si se acostumbra a enviar correos desde una cuenta normal y gratuita es posible que pasará a una lista negra de #[i spam] esto provoca que los mensajes de la dirección de correo se bloqueen o lleguen a #[i spam] del destinatario. Use herramientas certificadas y de buena reputación para el envío de campañas #[i e-mail marketing].               
           .col-lg-4.col-8
             figure
               img(src='@/assets/curso/temas/t5/t5_17.png') 
@@ -197,16 +199,16 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0           
             p #[span.squareNum 4] #[strong No reenviar cadenas:]  igual que otros medios, evite enviar cadenas de suerte y soluciones con fantasías.               
-            p #[span.squareNum 5] #[strong  Enviar contenidos de confianza:] evite enviar códigos de programación, archivos o link dudosos, si usted no sabe de qué se trata, no los reenvíe, es una manera muy popular de enviar virus a sus contactos.              
+            p #[span.squareNum 5] #[strong  Enviar contenidos de confianza:] evite enviar códigos de programación, archivos o #[i link] dudosos, si usted no sabe de qué se trata, no los reenvíe, es una manera muy popular de enviar virus a sus contactos.              
             p #[span.squareNum 6] #[strong No usar MAYÚSCULAS sostenidas:] las mayúsculas dan la sensación de que se está gritando.              
-            p #[span.squareNum 7] #[strong Siempre incluir el asunto:] tan importante como la dirección del destinatario, es el asunto, esto indica de manera rápida de qué se trata el contenido. Un buen asunto en e-mail marketing, podría hacer la diferencia.     
+            p #[span.squareNum 7] #[strong Siempre incluir el asunto:] tan importante como la dirección del destinatario, es el asunto, esto indica de manera rápida de qué se trata el contenido. Un buen asunto en #[i e-mail marketing], podría hacer la diferencia.     
 
           .col-lg-4.col-8
             figure
               img(src='@/assets/curso/temas/t5/t5_18.png')  
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0           
-            p #[span.squareNum 8] #[strong Usar diseños simples:] cuando un mensaje de correo contiene mucho texto y este se incluye en formato HTML, y exceso de diseño e imágenes, resulta ser más una incomodidad que una publicidad. Estas prácticas harán que se bloquee su cuenta o que se catalogue como spam o no segura.        
+            p #[span.squareNum 8] #[strong Usar diseños simples:] cuando un mensaje de correo contiene mucho texto y este se incluye en formato HTML, y exceso de diseño e imágenes, resulta ser más una incomodidad que una publicidad. Estas prácticas harán que se bloquee su cuenta o que se catalogue como #[i spam] o no segura.        
             p #[span.squareNum 9] #[strong No enviar archivos de gran tamaño:]  siempre se debe tener conciencia del contenido del correo, archivos demasiado grandes podrían, eventualmente, llenar el buzón de algún destinatario. Si es inevitable bajar calidad y peso a los datos adjuntos, es mejor usar herramientas como drive u otras y por el correo simplemente envíe el enlace.                
           .col-lg-4.col-8
             figure
@@ -235,7 +237,7 @@
           .col-auto
             .circleNum(data-circleNum="2")             
           .col
-            p.mb-0 #[strong Revisar mensaje antes de enviar:] si bien, ocasionalmente el afán y el inmediatismo es la característica del chat, en entornos de negocios es importante estar seguro de que se envía el mensaje correcto y de la manera correcta con buena ortografía. Con frecuencia, el corrector ortográfico hace malas jugadas y reemplaza de manera incorrecta palabras dando, incluso, otro contexto al mensaje.
+            p.mb-0 #[strong Revisar mensaje antes de enviar:] si bien, ocasionalmente el afán y el inmediatismo es la característica del #[i chat], en entornos de negocios es importante estar seguro de que se envía el mensaje correcto y de la manera correcta con buena ortografía. Con frecuencia, el corrector ortográfico hace malas jugadas y reemplaza de manera incorrecta palabras dando, incluso, otro contexto al mensaje.
         .hr--line
         .row.align-items-center
           .col-auto
@@ -247,13 +249,13 @@
           .col-auto
             .circleNum(data-circleNum="4")             
           .col
-            p.mb-0 #[strong Sino está disponible, hágalo saber:] en el contexto de los negocios, establecer con claridad los horarios. Un cliente que escribe espera respuesta inmediata. En caso de que no pueda responder, hágalo saber. El medio más adecuado es activar el mensaje automático indicando cuándo atenderá el chat y opciones alternativas para que el cliente busque su solución (los links de los catálogos podrían ser una opción para que el cliente siga interactuando con el negocio).
+            p.mb-0 #[strong Sino está disponible, hágalo saber:] en el contexto de los negocios, establecer con claridad los horarios. Un cliente que escribe espera respuesta inmediata. En caso de que no pueda responder, hágalo saber. El medio más adecuado es activar el mensaje automático indicando cuándo atenderá el #[i chat] y opciones alternativas para que el cliente busque su solución (los #[i links] de los catálogos podrían ser una opción para que el cliente siga interactuando con el negocio).
         .hr--line
         .row.align-items-center
           .col-auto
             .circleNum(data-circleNum="5")             
           .col
-            p.mb-0 #[strong Evitar saturar con multimedia:] enviar de manera indiscriminada fotos, videos, audios, sticker, etc. hace que la memoria del celular de los otros usuarios se llene. Se debe ser mesurado y estratégico.
+            p.mb-0 #[strong Evitar saturar con multimedia:] enviar de manera indiscriminada fotos, videos, audios, #[i sticker], etc. hace que la memoria del celular de los otros usuarios se llene. Se debe ser mesurado y estratégico.
         .hr--line
         .row.align-items-center
           .col-auto

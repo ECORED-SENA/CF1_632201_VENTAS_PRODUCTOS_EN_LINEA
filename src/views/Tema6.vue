@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 6
-      h1 Netiqueta y comunicación en medios digitales     
+      h1 Conociendo las organizaciones     
 
 
     .row.justify-content-center(data-aos="zoom-in")
@@ -65,7 +65,7 @@
           .col-lg-4.mb-4(data-aos="zoom-in")
             .crd.crd--purple.fullHeight.p-4
               h5 Sedes físicas y/o digitales
-              p.mb-0 Definir las plataformas o sitio web del negocio que cumpla con las políticas de imagen, en caso de tener sedes físicas, establecer el estilo de los locales.
+              p.mb-0 Definir las plataformas o sitio #[i web] del negocio que cumpla con las políticas de imagen, en caso de tener sedes físicas, establecer el estilo de los locales.
 
         p.mb-4 Existen otros elementos adicionales, algunas marcas, por ejemplo, crean un personaje que las represente, ocasionalmente un animal humanizado o un personaje representativo, un ejemplo típico de esto es el personaje de Juan Valdés, quien representa la imagen del café colombiano.
 
@@ -86,13 +86,13 @@
         .col-lg-9.mb-4.mb-lg-0
           .bloque-texto-c.clr--mint.p-4
             i.fas.fa-quote-right
-            h5.mb-2 El branding o creación de una marca es un proceso integrado, busca construir marcas que impacten el mercado, que sean conocidas y estén asociadas a elementos positivos y que generen el deseo de comprar por un número alto de consumidores. Entre estos componentes del branding se integra el diseño gráfico y la puesta en escena de la marca frente a unos públicos definidos y segmentados, de manera que tome relevancia y rentabilidad, que genere captación de nuevos clientes y fidelización con la marca.
+            h5.mb-2 El #[i branding] o creación de una marca es un proceso integrado, busca construir marcas que impacten el mercado, que sean conocidas y estén asociadas a elementos positivos y que generen el deseo de comprar por un número alto de consumidores. Entre estos componentes del #[i branding] se integra el diseño gráfico y la puesta en escena de la marca frente a unos públicos definidos y segmentados, de manera que tome relevancia y rentabilidad, que genere captación de nuevos clientes y fidelización con la marca.
             span - Ballesteros, 2016.          
         .col-lg-3.col-8
           figure
             img(src="@/assets/curso/temas/t6/t6_05.svg", alt="alt")
 
-      p(data-aos="fade-in") El <i>branding</i> puede aplicarse tanto a una empresa como a los productos o personas. Si bien se ha hablado de definir el branding corporativo y que la empresa como marca tenga identidad y reconocimiento, también los productos deberán tener su propia marca; en caso de que sea un producto propio, es un proceso del desarrollo del producto junto con los empaques y todo el estilo gráfico; en caso de comercializar productos de otras empresas es fundamental incluir el <i>branding</i> del artículo en los catálogos de venta de la empresa.
+      p(data-aos="fade-in") El <i>branding</i> puede aplicarse tanto a una empresa como a los productos o personas. Si bien se ha hablado de definir el <i>branding</i> corporativo y que la empresa como marca tenga identidad y reconocimiento, también los productos deberán tener su propia marca; en caso de que sea un producto propio, es un proceso del desarrollo del producto junto con los empaques y todo el estilo gráfico; en caso de comercializar productos de otras empresas es fundamental incluir el <i>branding</i> del artículo en los catálogos de venta de la empresa.
 
     separador
 
@@ -114,9 +114,9 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-in").mb-4
       .col-lg-8.mb-4.mb-lg-0
-        p Por ejemplo, se plantea desarrollar una marca fresca, con tipografías y colores joviales, por lo que las expresiones en las comunicaciones no deberían ser muy formales. De este modo, se sigue el planteamiento del branding y se establece una conexión con la gente de pensamiento relajado. 
+        p Por ejemplo, se plantea desarrollar una marca fresca, con tipografías y colores joviales, por lo que las expresiones en las comunicaciones no deberían ser muy formales. De este modo, se sigue el planteamiento del <i>branding</i> y se establece una conexión con la gente de pensamiento relajado. 
 
-        p Los textos y palabras, como lo visual, están presente en todas las comunicaciones de la organización, ya sea en los contenidos internos como los textos en la web y en los comunicados de prensa, informes anuales y eslóganes publicitarios.       
+        p Los textos y palabras, como lo visual, están presente en todas las comunicaciones de la organización, ya sea en los contenidos internos como los textos en la #[i web] y en los comunicados de prensa, informes anuales y eslóganes publicitarios.       
 
         p El lenguaje corporativo solo va orientado a lo comercial, en buscar y conectar clientes con la marca; hay contextos en los que este lenguaje no debe emplearse, pues hay espacios muy serios, donde la narrativa de marca no tiene cabida. Por ejemplo, en asuntos legales, comunicados de prensa, atención a requerimientos gubernamentales, entre otros.
       
@@ -138,7 +138,7 @@
       .crd.crd--tabs.p-4(titulo="Claridad")        
         .row.justify-content-center.align-items-center        
           .col-lg.mb-5.mb-lg-0
-            p.mb-0 El uso de un lenguaje claro y sencillo que sea habitual al lector genera interés y genera confianza en la marca. Un sitio web con términos técnicos, tiene como resultado una elevada tasa de abandono.
+            p.mb-0 El uso de un lenguaje claro y sencillo que sea habitual al lector genera interés y genera confianza en la marca. Un sitio #[i web] con términos técnicos, tiene como resultado una elevada tasa de abandono.
           .col-auto
             figure(data-aos="zoom-in")
               img(src="@/assets/curso/temas/t6/t6_10.svg", alt="alt").img210
@@ -175,7 +175,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0                  
-                  p.mb-0 Es la guía de estilo, esto garantiza que los logos, colores, fuentes y ubicación de los elementos visuales sean los correctos; este manual puede ser tan extenso según la empresa, un ejemplo de ello es el manual de identidad institucional del SENA:  
+                  p.mb-0 Es la guía de estilo, esto garantiza que los logos, colores, fuentes y ubicación de los elementos visuales sean los correctos; este manual puede ser tan extenso según la empresa, un ejemplo de ello es el manual de identidad institucional del SENA.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/manual_identidad_institucional.pdf')" target="_blank")
                     span Descargar
@@ -196,7 +196,7 @@
     .row.justify-content-center(data-aos="zoom-in")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1.
+          h5 Figura 5.
           span Fuentes de información
         figure
           img(src="@/assets/curso/temas/t6/t6_12.png", alt="alt")

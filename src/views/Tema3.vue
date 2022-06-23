@@ -7,13 +7,13 @@
         span.text-white 3
       h1 Introducción al <i>marketing</i>
 
-    p El marketing se define como el conjunto de métodos y estudios que busca la comercialización de productos y servicios, es un área que en las últimas décadas ha tomado gran fuerza a través de medios digitales. El siguiente video presenta una explicación del concepto:
+    p El <i>marketing</i> se define como el conjunto de métodos y estudios que busca la comercialización de productos y servicios, es un área que en las últimas décadas ha tomado gran fuerza a través de medios digitales. El siguiente video presenta una explicación del concepto:
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lpS6sY69J1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
-    p.text-center.mb-4 Luego de entender el mercado, se hará la presentación general del concepto de marketing.
+    p.text-center.mb-4 Luego de entender el mercado, se hará la presentación general del concepto de #[i marketing].
 
     .bg_img_02
 
@@ -26,7 +26,7 @@
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-in")
         h2 3.1 Ecosistemas de <i>marketing</i> digital
 
-      p.mb-4 Un ecosistema, es el conjunto de elementos que interactúan entre sí teniendo un área o unos límites definidos, en el caso del negocio, la punta de flecha son las ventas, pero para que estas se den efectivamente, debe definirse un plan de mercadeo. En un ecosistema de marketing intervienen:
+      p.mb-4 Un ecosistema, es el conjunto de elementos que interactúan entre sí teniendo un área o unos límites definidos, en el caso del negocio, la punta de flecha son las ventas, pero para que estas se den efectivamente, debe definirse un plan de mercadeo. En un ecosistema de #[i marketing] intervienen:
 
       .row.justify-content-center(data-aos="zoom-in").mb-4
         .col-lg-10
@@ -45,7 +45,7 @@
                 .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
                   .number(data-number="02") 
                     h4.ps-4 Producto  
-                    p.ps-4.mb-0 Es lo que la empresa desea que se consuma o compre; este debe venir acompañado de otros elementos como el branding, precio y atributos que serán aprovechados por el creativo de marketing para ofrecer el elemento de consumo a través de emociones principalmente.                    
+                    p.ps-4.mb-0 Es lo que la empresa desea que se consuma o compre; este debe venir acompañado de otros elementos como el #[i branding], precio y atributos que serán aprovechados por el creativo de #[i marketing] para ofrecer el elemento de consumo a través de emociones principalmente.                    
                 .col-6.col-lg-4
                   figure
                     img(src='@/assets/curso/temas/t3/t3_02.svg')
@@ -54,7 +54,7 @@
                 .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
                   .number(data-number="03") 
                     h4.ps-4 Plataformas de comercio  
-                    p.ps-4.mb-0 Es el lugar donde se exhibe el producto. Aquí se acceden a los catálogos y se realizan las transacciones, este es muy importante, porque allí convergen la marca, los productos, el lenguaje, la estética, la estrategia y la sustentabilidad del negocio. El fin último de toda estrategia de marketing es que los usuarios ingresen a la plataforma de comercio electrónico, ya sea propia a través de una tienda online o compartida con plataformas marketplace de terceros.                 
+                    p.ps-4.mb-0 Es el lugar donde se exhibe el producto. Aquí se acceden a los catálogos y se realizan las transacciones, este es muy importante, porque allí convergen la marca, los productos, el lenguaje, la estética, la estrategia y la sustentabilidad del negocio. El fin último de toda estrategia de #[i marketing] es que los usuarios ingresen a la plataforma de comercio electrónico, ya sea propia a través de una tienda online o compartida con plataformas #[i marketplace] de terceros.                 
                 .col-6.col-lg-4
                   figure
                     img(src='@/assets/curso/temas/t3/t3_03.svg')
@@ -92,7 +92,7 @@
                 .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
                   .number(data-number="07") 
                     h4.ps-4 Redes sociales
-                    p.ps-4.mb-0 Aumentar la presencia y campañas de marketing en entornos sociales incrementa el alcance de público segmentado y crea comunidad alrededor de intereses particulares; esto permite posicionar la marca y establecer una comunicación que llegue a muchas personas, así mismo, se aumentan los canales de venta. También es importante saber manejar las crisis y críticas que puedan surgir.
+                    p.ps-4.mb-0 Aumentar la presencia y campañas de #[i marketing] en entornos sociales incrementa el alcance de público segmentado y crea comunidad alrededor de intereses particulares; esto permite posicionar la marca y establecer una comunicación que llegue a muchas personas, así mismo, se aumentan los canales de venta. También es importante saber manejar las crisis y críticas que puedan surgir.
              
                 .col-6.col-lg-4
                   figure
@@ -118,7 +118,7 @@
                   figure
                     img(src='@/assets/curso/temas/t3/t3_09.svg')
 
-          p Para finalizar este concepto básico de #[span.hg--purple01 #[i marketing]], es importante señalar que, por lo general, hay una ruta que el cliente recorre y que el marketing es el responsable de guiar, esta es la ruta del comprador.
+          p Para finalizar este concepto básico de #[span.hg--purple01 #[i marketing]], es importante señalar que, por lo general, hay una ruta que el cliente recorre y que el #[i marketing] es el responsable de guiar, esta es la ruta del comprador.
 
     .cajon.cjn--purpura.p-4(data-aos="zoom-in").mb-5
       p.mb-0 El alcance se muestra como una pirámide inversa, en el sentido que típicamente se inicia con campañas abiertas y masivas, que si bien segmentan un público por características específicas, se trata simplemente de jugar con las posibilidades de optimizar las inversiones procurando mejorar las posibilidades.
@@ -127,7 +127,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span Ruta y alcance de las fases del marketing
+          span Ruta y alcance de las fases del #[i marketing]
 
         figure.mb-4
           img(src="@/assets/curso/temas/t3/t3_10.svg", alt="alt")
@@ -155,7 +155,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 3.2 Conceptos en estudio de mercado
 
-    p Si bien se encuentran varias definiciones, se puede establecer que el estudio de mercado son las acciones sistemáticas y técnicas que desarrolla buscando obtener información real y profunda sobre el target o público objetivo, así como la viabilidad y rentabilidad y busca aumentar la comercialización efectiva y eficiente de los productos.
+    p Si bien se encuentran varias definiciones, se puede establecer que el estudio de mercado son las acciones sistemáticas y técnicas que desarrolla buscando obtener información real y profunda sobre el #[i target] o público objetivo, así como la viabilidad y rentabilidad y busca aumentar la comercialización efectiva y eficiente de los productos.
 
     .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-lg-10
@@ -164,7 +164,7 @@
 
     figure(data-aos="zoom-in").mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pR33mqevijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
     .row.mb-4(data-aos="fade-in").mb-4
       .col-auto
@@ -174,7 +174,7 @@
         .cstm_title
           h3 Público objetivo
 
-    p(data-aos="fade-in") También denominado target group, se busca determinar con precisión quiénes serán los compradores y en qué grupo poblacional se encuentran, es decir, si los productos son consumidos por hombre o por mujeres, ejecutivos, amas de casa, personas con vehículos, qué clase de actividades deportivas realizan, así como el nivel socioeconómico, si es alto, medio o bajo, así como la determinación geográfica, entre otras variables.
+    p(data-aos="fade-in") También denominado #[i target group], se busca determinar con precisión quiénes serán los compradores y en qué grupo poblacional se encuentran, es decir, si los productos son consumidos por hombre o por mujeres, ejecutivos, amas de casa, personas con vehículos, qué clase de actividades deportivas realizan, así como el nivel socioeconómico, si es alto, medio o bajo, así como la determinación geográfica, entre otras variables.
 
     p(data-aos="fade-in").mb-5 El perfil de este público objetivo se determina por:
 
@@ -217,7 +217,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8talMCmrZ5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
     .row.mb-4(data-aos="fade-in").mb-4
       .col-auto
@@ -227,7 +227,7 @@
         .cstm_title
           h3 Segmentación de mercado
 
-    p La segmentación del mercado trata de concretar las características específicas que posee el target group (CEEI Ciudad Real, 2005).
+    p La segmentación del mercado trata de concretar las características específicas que posee el #[i target group] (CEEI Ciudad Real, 2005).
 
     p Para esta segmentación se emplean las siguientes variables (esto no significa que sean las únicas, pero sí las más comunes y principales):
 
@@ -235,7 +235,7 @@
       .crd.crd--purple.crd--rad.fullHeight.p-4         
         .content                 
           img(src='@/assets/curso/temas/t3/t3_13.svg' alt='').img90.m-auto.mb-4 
-          h5.text-center sexo  
+          h5.text-center Sexo  
       .crd.crd--yellow.crd--rad.fullHeight.p-4   
         .content       
           img(src='@/assets/curso/temas/t3/t3_14.svg' alt='').img90.m-auto.mb-4 
@@ -282,7 +282,7 @@
     .bg_img_05
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/wFqLQDbb03g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
       .row.mb-4(data-aos="fade-in").mb-4
         .col-auto
@@ -300,24 +300,13 @@
           .crd.crd--mint.p-3
             p.text-center.mb-0 Un estudio de mercado consta de los siguientes pasos:
 
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 2.
+      span Esquema de elaboración del estudio de mercado
+
     figure(data-aos="zoom-in")
       img(src="@/assets/curso/temas/t3/t3_22.png", alt="alt")
-      figcaption Nota. Adaptada de CEEI Ciudad Real (2005).
-
-
-      
-        
-
-
-
-
-
-
-
-
-
-
-    
+      figcaption Nota. Adaptada de CEEI Ciudad Real (2005).   
 
 
 

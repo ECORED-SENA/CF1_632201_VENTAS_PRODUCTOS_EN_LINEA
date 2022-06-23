@@ -7,7 +7,7 @@
         span.text-white 2
       h1 <i>Insight</i> del consumidor
 
-    p Este es un término llevado de la Psicología al mundo de los negocios; es un término con dos raíces, <i>in</i> (adentro) <i>sight</i> (visión), por lo que se podría deducir visión interna, en este caso la de los consumidores o clientes.
+    p Este es un término llevado de la psicología al mundo de los negocios; es un término con dos raíces, <i>in</i> (adentro) <i>sight</i> (visión), por lo que se podría deducir visión interna, en este caso la de los consumidores o clientes.
 
     p En otras palabras, es el resultado de un análisis teniendo en cuenta toda la información disponible de los clientes. Este análisis, por lo general, llega a concluir en una verdad de los consumidores.
 
@@ -72,7 +72,7 @@
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/yc8fiXKYVLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       p El éxito del <i>insight</i> es que se logre la conexión del público con el producto o marca, es decir, si le llega una publicidad o anuncio al cliente, de inmediato se produce un momento donde el cliente, por alguna razón se identifique con la marca o producto. 
 

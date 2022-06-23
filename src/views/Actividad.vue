@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Atender clientes de acuerdo con procedimiento de servicio, normativa y conceptos de mercadeo y ventas
-        p.mb-4 #[b Objetivo] Realizar un repaso de los conceptos más importantes de las temáticas abordadas en el componente formativo relacionadas con la atención al cliente, la inclusión, comunicación comercial y conceptos de <i>marketing</i>.
+        p.mb-4 Realizar un repaso de los conceptos más importantes de las temáticas abordadas en el componente formativo relacionadas con la atención al cliente, la inclusión, comunicación comercial y conceptos de <i>marketing</i>.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Arrastrar y soltar.
+              p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

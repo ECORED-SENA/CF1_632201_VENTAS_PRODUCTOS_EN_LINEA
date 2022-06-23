@@ -50,20 +50,20 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Insight del consumidor',
+        titulo: '<i>Insight</i> del consumidor',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Introducción al marketing',
+        titulo: 'Introducción al <i>marketing</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Ecosistemas de marketing digital',
+            titulo: 'Ecosistemas de <i>marketing</i> digital',
             hash: 't_3_1',
           },
           {
@@ -392,14 +392,14 @@ export default {
       referencia:
         'CEEI Ciudad Real - Creación y Desarrollo de Empresas. (s. f.). <i>Guía para la elaboración de un estudio de mercado.</i> ',
       tipo: 'PDF',
-      descarga: '../downloads/CEEI_Ciudad_Real-Guia.pdf',
+      descarga: 'downloads/CEEI_Ciudad_Real-Guia.pdf',
     },
     {
       tema: 'Momento cero de la verdad (ZMOT)',
       referencia:
         'Lecinski, J. (s. f.). <i>Ganando el momento cero de la verdad.</i> ',
       tipo: 'PDF',
-      descarga: '../downloads/2011-winning-zmot-ebook_research-studies.pdf',
+      descarga: 'downloads/2011-winning-zmot-ebook_research-studies.pdf',
     },
   ],
   creditos: {

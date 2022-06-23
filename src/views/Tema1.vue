@@ -11,7 +11,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
 
@@ -27,8 +27,8 @@
 
           p.mb-0 Actualmente, con el avance tecnológico y los modelos productivos de la cuarta Revolución Industrial, estas decisiones de compras ejecutadas por humanos, en muchos casos, son asistidas por los sistemas de información y sistemas inteligentes. Cada vez más, las empresas y personas asignan los procesos de compras a sistemas digitales autónomos que tomen decisiones bajo parámetros establecidos, datos del negocio y realicen dicha acción de manera automática.
 
-        .col-lg-4.col-10.z_top
-          figure(data-aos="zoom-in")
+        .col-lg-4.col-10
+          figure
             img(src="@/assets/curso/temas/t1/t1_01.png", alt="alt")
 
     .cajon.cjn--mint(data-aos="zoom-in").p-4.mb-4
@@ -43,7 +43,7 @@
             figure
               img(src="@/assets/curso/temas/t1/t1_19.jpg", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 B2C (Business to Consumer) 
+            h4.mb-3 B2C (<i>Business to Consumer</i>) 
             p.mb-0 De empresa a consumidor o cliente final, son aquellos negocios que ofrecen productos o servicios a personas.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt
@@ -51,7 +51,7 @@
             figure
               img(src="@/assets/curso/temas/t1/t1_20.jpg", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 B2B (Business to Business)
+            h4.mb-3 B2B (<i>Business to Business</i>)
             p.mb-0 Se refiere a la relación comercial de empresa a empresa, lo que se traduce en un mercado corporativo o industrial; son aquellos negocios que venden sus productos a otros negocios.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt
@@ -59,8 +59,8 @@
             figure
               img(src="@/assets/curso/temas/t1/t1_21.jpg", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 C2C (Customer to Customer)
-            p.mb-0 Se establece de consumidor a consumidor, un ejemplo de esto se da en mercados de garaje. Su masificación surge a través de plataformas populares y plataformas marketplace donde cualquiera vende y compra, incluso podrían desarrollarse modelos B2B y B2C.
+            h4.mb-3 C2C (<i>Customer to Customer</i>)
+            p.mb-0 Se establece de consumidor a consumidor, un ejemplo de esto se da en mercados de garaje. Su masificación surge a través de plataformas populares y plataformas <i>marketplace</i> donde cualquiera vende y compra, incluso podrían desarrollarse modelos B2B y B2C.
 
 
     p.mb-5 Luego de caracterizar los modelos es necesario conocerlos un poco más, en la siguiente tabla se presentan las principales características de los dos modelos base:
@@ -84,27 +84,27 @@
           tr
             td.ps-4 #[strong Proceso de la compra]
             td Las comprasque las personas hacen, est&aacute;n basadas en emociones e impulsos, es un proceso personal.
-            td Es unproceso t&eacute;cnico, lento y pensado, requiere mayores detalles y requieren mayorrespaldo (legal, soporte o asistencia, requieren lo exacto, etc.).
+            td Es un proceso t&eacute;cnico, lento y pensado, requiere mayores detalles y requieren mayorrespaldo (legal, soporte o asistencia, requieren lo exacto, etc.).
           tr.cell--gray
-            td.ps-4 #[strong Estrategia de marketing]
-            td Se hace usode medios masivos, ya sean los tradicionales como radio, gr&aacute;ficos y medios y online como buscadores, email marketing, redes sociales. 
+            td.ps-4 #[strong Estrategia de #[i marketing]]
+            td Se hace uso de medios masivos, ya sean los tradicionales como radio, gr&aacute;ficos y medios y online como buscadores, #[i email marketing], redes sociales. 
               br
               br
-              | Lasegmentaci&oacute;n puede ser compleja.
-            td Generalmente,no usan medios masivos, se usa marketingrelacional como eventos y contacto personalizado.
+              | La segmentaci&oacute;n puede ser compleja.
+            td Generalmente, no usan medios masivos, se usa #[i marketing] relacional como eventos y contacto personalizado.
               br
               br
-              | Lasegmentaci&oacute;n es relativamente sencilla.
+              | La segmentaci&oacute;n es relativamente sencilla.
           tr
             td.ps-4 #[strong Costo de la venta]
             td Por logeneral, las ventas son transacciones de bajo costo y la clave es convenceral cliente que requiere del producto o servicio.
-            td Por lo general,las ventas se realizan por montos altos.
+            td Por lo general, las ventas se realizan por montos altos.
           tr.cell--gray
             td.ps-4 #[strong Decisi&oacute;n de la venta]
-            td Se basa enla emoci&oacute;n y los sentimientos de necesidad, con frecuencia son decisionesimpulsivas.
-            td Decisiones racionales, tomadas por necesidades y decisionesempresariales, por lo general, la decisi&oacute;n es tomada por un comit&eacute; o variaspersonas.
+            td Se basa en la emoci&oacute;n y los sentimientos de necesidad, con frecuencia son decisiones impulsivas.
+            td Decisiones racionales, tomadas por necesidades y decisiones empresariales, por lo general, la decisi&oacute;n es tomada por un comit&eacute; o varias personas.
 
-    p.mb-4 Algunos proyectos de ventas pueden cubrir ambos modelos, pero es importante tener claridad, debido a que las estrategias, marketing y métodos son muy diferentes, no es lo mismo vender a personas que vender a empresas.
+    p.mb-4 Algunos proyectos de ventas pueden cubrir ambos modelos, pero es importante tener claridad, debido a que las estrategias, <i>marketing</i> y métodos son muy diferentes, no es lo mismo vender a personas que vender a empresas.
 
     .row.justify-content-center(data-aos="zoom-in").mb-4
       .col-lg-10
@@ -163,7 +163,7 @@
       separador
 
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-        h2 1.2 Concepto de datos e información  
+        h2 1.2 Perspectiva inclusiva 
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.order-2.order-lg-1
@@ -243,7 +243,7 @@
           figure
             img(src='@/assets/curso/temas/t1/t1_10.png', alt='')          
         .col-lg-8
-          p.mb-0 Algunas herramientas que podrían ayudar mejorar la accesibilidad para los sitios digitales son los lectores de pantalla, los subtítulos y elementos que permiten a los usuarios escuchar contenido y navegar con el teclado. La tecnología ayuda a las personas con discapacidad en varios ambientes (Web Accessibility in Mind, 2017).
+          p.mb-0 Algunas herramientas que podrían ayudar a mejorar la accesibilidad para los sitios digitales son los lectores de pantalla, los subtítulos y elementos que permiten a los usuarios escuchar contenido y navegar con el teclado. La tecnología ayuda a las personas con discapacidad en varios ambientes (Web Accessibility in Mind, 2017).
 
       .row.justify-content-center.align-items-center(titulo="Baja visión y ceguera")
         .col-lg-4.col-8.mb-4.mb-lg-0
@@ -263,13 +263,13 @@
             .col-auto.img210
               figure(data-aos="flip-left").mb-4
                 img(src="@/assets/curso/temas/t1/t1_12.svg/", alt="alt").img180.m-auto           
-              p.brd--left.brd--01 #[strong Selector tamaño del texto:] el usuario puede aumentar o disminuir el tamaño del texto.
+              p.brd--left.brd--01 #[strong Selector tamaño del texto,] el usuario puede aumentar o disminuir el tamaño del texto.
         .col-xl-auto.col-lg-4.mb-4.mb-lg-0
           .row.justify-content-center
             .col-auto.img210
               figure(data-aos="flip-left").mb-4
                 img(src="@/assets/curso/temas/t1/t1_13.svg/", alt="alt").img180.m-auto           
-              p.brd--left.brd--02 #[strong Selector modo contraste:] el usuario puede elegir que la pantalla salga monocromática.
+              p.brd--left.brd--02 #[strong Selector modo contraste,] el usuario puede elegir que la pantalla salga monocromática.
         .col-xl-auto.col-lg-4.mb-4.mb-lg-0
           .row.justify-content-center
             .col-auto.img210
@@ -281,7 +281,7 @@
             .col-auto.img210
               figure(data-aos="flip-left").mb-4
                 img(src="@/assets/curso/temas/t1/t1_15.svg/", alt="alt").img180.m-auto           
-              p.brd--left.brd--04 #[strong Selector de colores:] que el entorno pueda tener diversas combinaciones de colores.
+              p.brd--left.brd--04 #[strong Selector de colores,] que el entorno pueda tener diversas combinaciones de colores.
         .col-xl-auto.col-lg-4.mb-4.mb-lg-0
           .row.justify-content-center
             .col-auto.img210
@@ -298,7 +298,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/j7zSYKv7w6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
     p Ocasionalmente, al usar medios digitales la atención al cliente se considera poco importante, dejando este asunto solo para las ventas físicas; se debe tener en cuenta que lo anterior está lejos de la realidad, porque la manera de abordarlo para suministrarle información y acompañamiento en las diferentes etapas de sus compras tales como la comunicación, conocimiento y presentación del representante comercial, influye en la experiencia de compra, así sea a través de canales impersonales o virtuales.
 
