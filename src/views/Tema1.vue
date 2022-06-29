@@ -11,7 +11,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
     separador
 
@@ -158,7 +158,9 @@
     .bg_img_02
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/MKWwZYf8hSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+          
 
       separador
 
@@ -177,7 +179,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zVxYy2wPsgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
     .row.mb-4(data-aos="fade-in")
       .col-auto
@@ -321,7 +323,7 @@
       .col-lg-10
         p.mb-0 Es importante tener adaptabilidad para la atención personalizada de cada cliente, la buena o mala atención podría definirse por las habilidades sociales de cada asesor comercial; pues cada cliente es un mundo diferente, sería imposible tener en cuenta tantas particularidades en un recurso educativo, sin embargo, a continuación, se presentan una serie de recomendaciones para la atención de clientes según las características mencionadas:    
 
-    ImagenInfografica.color-acento-botones.mb-5
+    ImagenInfografica.color-acento-botones
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t1/t1_18.svg', alt='')          

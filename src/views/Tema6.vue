@@ -86,7 +86,7 @@
         .col-lg-9.mb-4.mb-lg-0
           .bloque-texto-c.clr--mint.p-4
             i.fas.fa-quote-right
-            h5.mb-2 El #[i branding] o creación de una marca es un proceso integrado, busca construir marcas que impacten el mercado, que sean conocidas y estén asociadas a elementos positivos y que generen el deseo de comprar por un número alto de consumidores. Entre estos componentes del #[i branding] se integra el diseño gráfico y la puesta en escena de la marca frente a unos públicos definidos y segmentados, de manera que tome relevancia y rentabilidad, que genere captación de nuevos clientes y fidelización con la marca.
+            h5.mb-2 El #[em branding] o creación de una marca es un proceso integrado, busca construir marcas que impacten el mercado, que sean conocidas y estén asociadas a elementos positivos y que generen el deseo de comprar por un número alto de consumidores. Entre estos componentes del #[em branding] se integra el diseño gráfico y la puesta en escena de la marca frente a unos públicos definidos y segmentados, de manera que tome relevancia y rentabilidad, que genere captación de nuevos clientes y fidelización con la marca.
             span - Ballesteros, 2016.          
         .col-lg-3.col-8
           figure
@@ -197,7 +197,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 5.
-          span Fuentes de información
+          span Imagen e identidad corporativa
         figure
           img(src="@/assets/curso/temas/t6/t6_12.png", alt="alt")
           figcaption Nota. Tomada y adaptada de Lionbridge (2020).
