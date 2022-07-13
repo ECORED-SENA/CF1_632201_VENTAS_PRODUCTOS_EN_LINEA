@@ -84,10 +84,10 @@
           tr
             td.ps-4 #[strong Proceso de la compra]
             td Las comprasque las personas hacen, est&aacute;n basadas en emociones e impulsos, es un proceso personal.
-            td Es un proceso t&eacute;cnico, lento y pensado, requiere mayores detalles y requieren mayorrespaldo (legal, soporte o asistencia, requieren lo exacto, etc.).
+            td Es un proceso t&eacute;cnico, lento y pensado, requiere mayores detalles y requieren mayor respaldo (legal, soporte o asistencia, requieren lo exacto, etc.).
           tr.cell--gray
             td.ps-4 #[strong Estrategia de #[i marketing]]
-            td Se hace uso de medios masivos, ya sean los tradicionales como radio, gr&aacute;ficos y medios y online como buscadores, #[i email marketing], redes sociales. 
+            td Se hace uso de medios masivos, ya sean los tradicionales como radio, gr&aacute;ficos y medios online como buscadores, #[i email marketing], redes sociales. 
               br
               br
               | La segmentaci&oacute;n puede ser compleja.
@@ -97,7 +97,7 @@
               | La segmentaci&oacute;n es relativamente sencilla.
           tr
             td.ps-4 #[strong Costo de la venta]
-            td Por logeneral, las ventas son transacciones de bajo costo y la clave es convenceral cliente que requiere del producto o servicio.
+            td Por lo general, las ventas son transacciones de bajo costo y la clave es convencer al cliente que requiere del producto o servicio.
             td Por lo general, las ventas se realizan por montos altos.
           tr.cell--gray
             td.ps-4 #[strong Decisi&oacute;n de la venta]
@@ -235,7 +235,7 @@
         .col-lg-8
           p La discapacidad cognitiva (también conocida como discapacidad intelectual), es un término confuso que describe a una persona que tiene mayor dificultad con las tareas mentales que la persona promedio. Las discapacidades cognitivas son, por mucho, el tipo de discapacidad más común.
 
-          p.mb-0 #[strong Barreras para este tipo de clientes:] <br>Algunas personas con discapacidades cognitivas tienen dificultad para resolver problemas a medida que surgen por ejemplo los acertijos Captcha que requieren altos niveles de función cognitiva, por eso se recomiendan las distracciones, como promociones animadas, las ventanas emergentes, los íconos que se mueven y las superposiciones de diálogos no son recomendables. 
+          p.mb-0 #[strong Barreras para este tipo de clientes:] <br>Algunas personas con discapacidades cognitivas tienen dificultad para resolver problemas a medida que surgen por ejemplo los acertijos Captcha que requieren altos niveles de función cognitiva, por eso no se recomiendan las distracciones, como promociones animadas, las ventanas emergentes, los íconos que se mueven y las superposiciones de diálogos.
 
         .col-12
           p.mb-0 El ambiente recomendado debe tener un diseño visual sencillo e intuitivo, sin distracciones o elementos que supongan un reto para pensar mucho.
@@ -307,7 +307,7 @@
     .crd.crd--grad_03.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-7.mb-4.mb-lg-0
-          p Por la naturaleza del negocio de ventas de productos y servicios que se aborda en este componente de formación, la atención del cliente, por lo general, se realiza a través canales tecnológicos tales como teléfono, chat, correo y redes sociales, cada uno con varias opciones según la herramienta para usar.
+          p Por la naturaleza del negocio de ventas de productos y servicios que se aborda en este componente de formación, la atención del cliente, por lo general, se realiza a través de canales tecnológicos tales como teléfono, chat, correo y redes sociales, cada uno con varias opciones según la herramienta para usar.
           p.mb-0 No todos los clientes tienen las mismas características y, por tanto, no responden de la misma manera ante la atención que cada vendedor les da. Es importante identificar a cada cliente para darle un trato personalizado y tener la habilidad de adaptarse a estas características para encontrar una mayor conexión intrapersonal y mejorar las posibilidades de éxito de la venta.
 
         .col-lg-4.col-8

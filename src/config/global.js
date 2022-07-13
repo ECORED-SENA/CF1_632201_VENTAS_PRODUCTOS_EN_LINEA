@@ -233,7 +233,7 @@ export default {
       referencia:
         'Discapacidad Colombia. (2019). <i>Ley Estatutaria 1618 de 2013.</i> ',
       link:
-        'https://discapacidadcolombia.com/index.php/legislacion/145-ley-estatutaria-1618-de-2013 ',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/PS/documento-balance-1618-2013-240517.pdf ',
     },
     {
       referencia:
@@ -300,7 +300,7 @@ export default {
       link: 'https://economipedia.com/definiciones/tipos-de-clientes.html ',
     },
     {
-      referencia: 'W3C.org. (2021). <i>W3C.</i>',
+      referencia: 'W3C.org. (2021). <i>Introduction to Web Accessibility</i>',
       link: 'https://www.w3.org/WAI/fundamentals/accessibility-intro/ ',
     },
     {
@@ -329,11 +329,6 @@ export default {
       termino: '<em>Community Managers</em>',
       significado:
         'El <em>community manager</em> es la voz de la empresa en las redes sociales, pero debe ser capaz también de trasladar al cliente su propia personalidad individual. De lo contrario, su voz sería percibida por el consumidor como impostada y artificial.',
-    },
-    {
-      termino: 'Etiología',
-      significado:
-        'parte de la medicina que estudia el origen o las causas de las enfermedades.',
     },
     {
       termino: 'Grupos demográficos',

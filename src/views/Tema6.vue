@@ -45,7 +45,7 @@
           .col-lg-4.mb-4(data-aos="zoom-in")
             .crd.crd--celeste.fullHeight.p-4
               h5 Nombre
-              p.mb-0 Una identidad definida. Los buenos nombres son aquelos que son cortos, fáciles de recordar, sonoros y con un significado de valor.
+              p.mb-0 Una identidad definida. Los buenos nombres son aquellos que son cortos, fáciles de recordar, sonoros y con un significado de valor.
 
           .col-lg-4.mb-4(data-aos="zoom-in")
             .crd.crd--yellow.fullHeight.p-4
@@ -67,7 +67,7 @@
               h5 Sedes físicas y/o digitales
               p.mb-0 Definir las plataformas o sitio #[i web] del negocio que cumpla con las políticas de imagen, en caso de tener sedes físicas, establecer el estilo de los locales.
 
-        p.mb-4 Existen otros elementos adicionales, algunas marcas, por ejemplo, crean un personaje que las represente, ocasionalmente un animal humanizado o un personaje representativo, un ejemplo típico de esto es el personaje de Juan Valdés, quien representa la imagen del café colombiano.
+        p.mb-4 Existen otros elementos adicionales, algunas marcas, por ejemplo, crean un personaje que las represente, ocasionalmente un animal humanizado o un personaje representativo, un ejemplo típico de esto es el personaje de Juan Valdéz, quien representa la imagen del café colombiano.
 
         figure(data-aos="zoom-in").mb-4
           img(src="@/assets/curso/temas/t6/t6_04.jpg", alt="alt")

@@ -103,7 +103,7 @@
           .col-12.mb-4
             .row.justify-content-center
               .col-lg-8.order-2.order-lg-1
-                p #[span.squareNum 8] #[strong Identificación:] se debe proporcionar el nombre, avatar (foto de perfil) y una breve biografía, otros usuarios quiere saber si es real o no el perfil. No se debe generar desconfianza registrando fotos que no son y sin descripciones o si las hay confusas; esto toma mayor importancia si se trata de un negocio.
+                p #[span.squareNum 8] #[strong Identificación:] se debe proporcionar el nombre, avatar (foto de perfil) y una breve biografía, otros usuarios quieren saber si es real o no el perfil. No se debe generar desconfianza registrando fotos que no son y sin descripciones o si las hay confusas; esto toma mayor importancia si se trata de un negocio.
               .col-lg-2.col-6.order-1.order-lg-2.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/temas/t5/t5_09.svg", alt="alt")
@@ -114,7 +114,7 @@
                 figure
                   img(src="@/assets/curso/temas/t5/t5_10.svg", alt="alt")
               .col-lg-8
-                p #[span.squareNum 9] #[strong Compartir contenido propio:] se debe procurar ser original, si se usarán publicaciones de otros, se debe compartir y mencionar el autor; el publicar contenidos de otros llevándose los créditos puede catalogarse como una infracción o delito, según las normas por las cuales esté protegido el contenido.
+                p #[span.squareNum 9] #[strong Compartir contenido propio:] se debe procurar ser original, si se usaran publicaciones de otros, se debe compartir y mencionar el autor; el publicar contenidos de otros llevándose los créditos puede catalogarse como una infracción o delito, según las normas por las cuales esté protegido el contenido.
 
         .row.pt-5(titulo="4")
           .col-12.mb-4
@@ -249,7 +249,7 @@
           .col-auto
             .circleNum(data-circleNum="4")             
           .col
-            p.mb-0 #[strong Sino está disponible, hágalo saber:] en el contexto de los negocios, establecer con claridad los horarios. Un cliente que escribe espera respuesta inmediata. En caso de que no pueda responder, hágalo saber. El medio más adecuado es activar el mensaje automático indicando cuándo atenderá el #[i chat] y opciones alternativas para que el cliente busque su solución (los #[i links] de los catálogos podrían ser una opción para que el cliente siga interactuando con el negocio).
+            p.mb-0 #[strong Si no está disponible, hágalo saber:] en el contexto de los negocios, establecer con claridad los horarios. Un cliente que escribe espera respuesta inmediata. En caso de que no pueda responder, hágalo saber. El medio más adecuado es activar el mensaje automático indicando cuándo atenderá el #[i chat] y opciones alternativas para que el cliente busque su solución (los #[i links] de los catálogos podrían ser una opción para que el cliente siga interactuando con el negocio).
         .hr--line
         .row.align-items-center
           .col-auto
