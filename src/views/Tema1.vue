@@ -11,7 +11,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Rvb4Bc_1aBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)             
 
     separador
 
@@ -300,7 +300,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/j7zSYKv7w6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/EXp6G1ZZkpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)             
 
     p Ocasionalmente, al usar medios digitales la atención al cliente se considera poco importante, dejando este asunto solo para las ventas físicas; se debe tener en cuenta que lo anterior está lejos de la realidad, porque la manera de abordarlo para suministrarle información y acompañamiento en las diferentes etapas de sus compras tales como la comunicación, conocimiento y presentación del representante comercial, influye en la experiencia de compra, así sea a través de canales impersonales o virtuales.
 
